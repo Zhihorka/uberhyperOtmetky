@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+
+.subHeader img{
+    height: 70px;
+    width: 70px;
+    position: relative;
+    top: 15px;
+    padding-right: 20px;
+}
+.subHeader h1{
+   font-size: 32px;
+}
+
+.subHeader h2{
+    position: relative;
+    top: -20px;
+    font-size: 12px;
+    color: #54647c;
+}
+
+.subHeader{
+    display: inline-flex;
+}
